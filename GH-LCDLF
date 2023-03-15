@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",24-7 Gran Hermano Argentina (7:20PM HORA CR)
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",24-7 GH Argentina (7:20PM HORA CR)
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 1 / La Casa de los Famosos 
@@ -9,14 +9,11 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM1.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 2 / La Casa de los Famosos 
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLF/master_CAM2.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 3 / La Casa de los Famosos 
-http://xcm.budtv-ultra.com:25461/live/budtvsports/wTu27rKVNU/91355.m3u8
-
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 1 (5PM HORA CR)
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 1 (5PM HORA CR)
 http://71.187.29.54:8000/play/a07a/index.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 2 (6PM HORA CR)
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 2 (6PM HORA CR)
 http://coresys.dvrdns.org:8080/live/Flaco25/m3zAXDuNCCwd/43107.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 3 (7PM HORA CR)
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/300px-Telemundo_logo_2018.svg.png,Telemundo 3 (7PM HORA CR)
 https://v-px.mybtv.net:443/live/39/1920x1080.m3u8
