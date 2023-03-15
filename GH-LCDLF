@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",24-7 GH Argentina (7:15PM HORA CR)
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.infozona.com.ar/wp-content/uploads/2022/09/gran-hermano-telefe-1024x576.jpg",24-7 GH Arg (7:15PM HORA CR)
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/focal-760x428/public/images/promo/livestreams/2023/01/17/lcdlf2_espia_24horas_hd_0.png",Cam 1 / La Casa de los Famosos 
