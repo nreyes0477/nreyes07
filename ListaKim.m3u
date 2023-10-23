@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png",Canal 6 Repretel ¹
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/670px-Teletica_Logo.png",Canal 7 Teletica ²
 http://168.181.122.234:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD Opc 2 ²
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
 http://45.171.64.171:41002/play/a051/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 2) ²
 http://45.190.187.226:58092/play/a00q
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR Opc 2 ²
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://187.102.208.108:50001/play/a041/index.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://45.190.187.226:58092/play/a00a
 
