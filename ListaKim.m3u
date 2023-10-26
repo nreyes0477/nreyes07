@@ -18,3 +18,8 @@ http://187.102.208.108:50001/play/a041/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://45.190.187.226:58092/play/a00a
 
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_mobile/s3/2023-06/CAC_Primary_Color.png",Copa Centroamericana
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/53540.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_mobile/s3/2023-06/CAC_Primary_Color.png",Copa Centroamericana (Opc 2)
+http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/53549.m3u8
