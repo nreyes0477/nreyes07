@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",De Viaje con los Derbez - T4 • E1
+#EXTINF:-0 tvg-chno="1" tvg-logo="http://www.impawards.com/intl/mexico/tv/posters/de_viaje_con_los_derbez_ver4_xxlg.jpg",De Viaje con los Derbez - T4 • E1
 http://192.168.5.171:4445/De+viaje+con+los+Derbez+S04E01.mkv.mkv
 
-#EXTINF:-0 tvg-chno="2" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",De Viaje con los Derbez - T4 • E2
+#EXTINF:-0 tvg-chno="2" tvg-logo="http://www.impawards.com/intl/mexico/tv/posters/de_viaje_con_los_derbez_ver4_xxlg.jpg",De Viaje con los Derbez - T4 • E2
 http://192.168.5.171:4445/De+viaje+con+los+Derbez+S04E02.mkv.mkv
 
-#EXTINF:-0 tvg-chno="3" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",De Viaje con los Derbez - T4 • E3
+#EXTINF:-0 tvg-chno="3" tvg-logo="http://www.impawards.com/intl/mexico/tv/posters/de_viaje_con_los_derbez_ver4_xxlg.jpg",De Viaje con los Derbez - T4 • E3
 http://192.168.5.171:4445/De+viaje+con+los+Derbez+S04E03.mkv.mkv
 
 #EXTINF:-0 tvg-chno="4" tvg-logo="https://pics.filmaffinity.com/infinite-926019748-mmed.jpg",Película Infinite (2021)
