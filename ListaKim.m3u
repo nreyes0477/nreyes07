@@ -16,7 +16,7 @@ https://opa.usastreams.com:3101/hybrid/play.m3u8
 http://45.171.64.171:41002/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 2) ²
-http://157.100.52.93:8000/play/a0qk/index.m3u8
+http://181.78.105.146:8800/play/a052
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://138.59.177.34:8000/play/a05i/index.m3u8
