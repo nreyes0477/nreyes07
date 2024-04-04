@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.anahuac.mx/generacion-anahuac/sites/default/files/articles/SalaDeCine.jpg",🍿Película Solicitada del Momento🍿
+http://192.168.5.171:4445/Dogman+(2023).mkv
+
+#EXTINF:-0 tvg-chno="2" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
 http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E02.mkv.mkv
 
-#EXTINF:-0 tvg-chno="2" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E2
+#EXTINF:-0 tvg-chno="3" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E2
 http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E03.mkv.mkv
 
-#EXTINF:-0 tvg-chno="3" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E3
+#EXTINF:-0 tvg-chno="4" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E3
 http://192.168.5.171:4445/Los+Diez+Mandamientos+(1956).mkv
-
-#EXTINF:-0 tvg-chno="5" tvg-logo="https://image.tmdb.org/t/p/w500//71bNxM4kKh2tSBwTgV4V8C0Bcaj.jpg",Película Solicitada del Momento 🆗
-http://192.168.5.171:4445/Dogman+(2023).mkv
 
 #EXTINF:-0 tvg-chno="6" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E1)
 http://legendstv.com.mx:80/series/giltest/testgil/228463.mkv
