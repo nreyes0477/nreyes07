@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://www.anahuac.mx/generacion-anahuac/sites/default/files/articles/SalaDeCine.jpg",🍿Película Solicitada del Momento🍿
-http://192.168.5.171:4445/Dogman+(2023).mkv
+http://192.168.5.171:4445/Past+lives.mkv
 
 #EXTINF:-0 tvg-chno="2" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
 http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E02.mkv.mkv
