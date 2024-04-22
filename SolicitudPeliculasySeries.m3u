@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",🍿Película Clueless (1995)🍿
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/rUPJfjfNEbANXQrmCQfurOppqrA.jpg",🍿Película Mi Amigo Robot (2024)🍿
+http://xpz.com.mx:8080/movie/Koko8164/8164koko/2198312.mp4
+
+#EXTINF:-0 tvg-chno="2" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",🍿Película Clueless (1995)🍿
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/45274.mkv
 
 #EXTINF:-0 tvg-chno="5" tvg-logo="https://m.media-amazon.com/images/I/71raQC2wWZL._AC_UF894,1000_QL80_FMwebp_.jpg",🍿Película Godzilla (2014)🍿
