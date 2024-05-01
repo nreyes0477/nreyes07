@@ -1,28 +1,30 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="11" tvg-logo="https://peliculasbluray.com/wp-content/uploads/2024/02/POSTER-4-2-185x278.jpg",🍿Película Aprendiz de Tigre (2024)🍿
+http://tv.boxdigital.org:8080/movie/Maic924EA/kUMzBKcYdaqz/268082.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/rUPJfjfNEbANXQrmCQfurOppqrA.jpg",🍿Película Mi Amigo Robot (2024)🍿
+#EXTINF:-0 tvg-chno="12" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/rUPJfjfNEbANXQrmCQfurOppqrA.jpg",🍿Película Mi Amigo Robot (2024)🍿
 http://tv.boxdigital.org:8080/movie/Maic924EA/kUMzBKcYdaqz/271259.mp4
 
-#EXTINF:-0 tvg-chno="2" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",🍿Película Clueless (1995)🍿
+#EXTINF:-0 tvg-chno="13" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",🍿Película Clueless (1995)🍿
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/45274.mkv
 
-#EXTINF:-0 tvg-chno="5" tvg-logo="https://m.media-amazon.com/images/I/71raQC2wWZL._AC_UF894,1000_QL80_FMwebp_.jpg",🍿Película Godzilla (2014)🍿
+#EXTINF:-0 tvg-chno="14" tvg-logo="https://m.media-amazon.com/images/I/71raQC2wWZL._AC_UF894,1000_QL80_FMwebp_.jpg",🍿Película Godzilla (2014)🍿
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/51861.mkv
 
-#EXTINF:-0 tvg-chno="6" tvg-logo="https://plcw.tmsimg.com/assets/p25399831_v_v12_aa.jpg",🍿Película Kung Fu Panda 4 (2024)🍿
+#EXTINF:-0 tvg-chno="15" tvg-logo="https://plcw.tmsimg.com/assets/p25399831_v_v12_aa.jpg",🍿Película Kung Fu Panda 4 (2024)🍿
 http://tv.boxdigital.org:8080/movie/Maic924EA/kUMzBKcYdaqz/273453.mp4
 
-#EXTINF:-0 tvg-chno="7" tvg-logo="https://www.dvdsreleasedates.com/posters/110/M/Madame-Web-2024.jpg",🍿Película Madame Web (2024)🍿
+#EXTINF:-0 tvg-chno="16" tvg-logo="https://www.dvdsreleasedates.com/posters/110/M/Madame-Web-2024.jpg",🍿Película Madame Web (2024)🍿
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
 
-#EXTINF:-0 tvg-chno="8" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
+#EXTINF:-0 tvg-chno="17" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
 http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E02.mkv.mkv
 
-#EXTINF:-0 tvg-chno="9" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E2
+#EXTINF:-0 tvg-chno="18" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E2
 http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E03.mkv.mkv
 
-#EXTINF:-0 tvg-chno="10" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E3
+#EXTINF:-0 tvg-chno="19" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E3
 http://192.168.5.171:4445/Los+Diez+Mandamientos+(1956).mkv
 
 #EXTINF:-0 tvg-chno="20" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E1)
