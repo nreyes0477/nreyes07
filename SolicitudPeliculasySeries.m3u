@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",🍿Snoopy presenta: Bienvenido a la Pandilla Franklin (2024)🍿
+http://tv.boxdigital.org:8080/movie/Maic924EA/kUMzBKcYdaqz/269010.mp4
+
 #EXTINF:-0 tvg-chno="11" tvg-logo="https://peliculasbluray.com/wp-content/uploads/2024/02/POSTER-4-2-185x278.jpg",🍿El Aprendiz de Tigre (2024)🍿
 http://tv.boxdigital.org:8080/movie/Maic924EA/kUMzBKcYdaqz/268082.mkv
 
