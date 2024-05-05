@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://m.media-amazon.com/images/I/919p74MDUEL._AC_UF1000,1000_QL80_FMwebp_DpWeblab_.jpg",🍿Spider - Man: A través del Spider - Verso (2023)🍿
+http://xpz.com.mx:8080/movie/Koko8164/8164koko/2185586.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Bob_Marley_One_Love.jpg",🍿Bob Marley: La Leyenda (2024)🍿
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/2204672.mkv
 
