@@ -19,7 +19,7 @@ http://138.59.177.34:8000/play/a06z/index.m3u8
 http://138.59.177.34:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://138.59.177.34:8000/play/a05i/index.m3u8
+http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://190.61.112.157:8000/play/a027/index.m3u8
