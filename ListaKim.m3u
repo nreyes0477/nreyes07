@@ -13,13 +13,13 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=5dAe2f
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
-http://138.59.177.34:8000/play/a06z/index.m3u8
+http://201.159.113.219:49000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 2) ²
-http://138.59.177.34:8000/play/a06z/index.m3u8
+http://204.157.251.250:8001/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
-http://170.82.37.21:8000/play/a047/index.m3u8
+http://201.159.113.219:49000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR (Opc 2) ²
 http://190.61.112.157:8000/play/a027/index.m3u8
