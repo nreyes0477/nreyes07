@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/26/CIE2_Poster.jpg",🍿La Liga de la Justicia: Crisis en las Tierras Infinitas - Parte Dos (2024)🍿
+http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/239140.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/47/CTI_Poster.png",🍿La Liga de la Justicia: Crisis en las Tierras Infinitas - Parte Uno (2024)🍿
+http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/74948.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="http://blancica.com/images/2024/GB_profile.jpg",🍿Ghostbusters: Apocalipsis Fantasma (2024)🍿
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/394248.mp4
 
