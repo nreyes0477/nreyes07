@@ -16,7 +16,7 @@ https://opa.usastreams.com:3101/live/canalopalive.m3u8
 http://201.159.113.219:49000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 2) ²
-http://204.157.251.250:8001/play/a03j/index.m3u8
+http://45.5.116.178:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png",Tigo Sports CR ²
 http://201.159.113.219:49000/play/a04x/index.m3u8
