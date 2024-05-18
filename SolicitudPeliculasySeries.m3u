@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://i5.walmartimages.com/seo/Godzilla-X-Kong-The-New-Empire-The-Official-Movie-Novelization-Paperback-9781803368108_5afcc18c-85b2-47a0-aada-73829aad6269.b3a7050a7ea063cea37775bfbe747f88.jpeg",🍿Godzilla y Kong: El Nuevo Imperio (2024)🍿
+http://home-playtv.com:8080/movie/SiaFlores21/BSMRA/542843.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",🍿Godzilla Minus One (2023)🍿
 http://play.steeltv.org:8080/movie/zuihaod3/4L3kkazMcx/542843.mkv
 
@@ -53,15 +57,6 @@ http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/236707.mkv
 
 #EXTINF:-0 tvg-chno="16" tvg-logo="https://www.dvdsreleasedates.com/posters/110/M/Madame-Web-2024.jpg",🍿Madame Web (2024)🍿
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
-
-#EXTINF:-0 tvg-chno="17" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E1
-https://s345vlx.storage.yandex.net/rdisk/55e2cc715755049dbdb997d572b06352aa584176746808c11a4b904cf0b3ebb5/66429896/9E8LvVRYrvJ9Ypy7DCbq8i1hUnv1bhl3bgXaVOjp6eTQzjihPmHq7qJrDx2swfYXvDhSGQZx2JrArkxzEp-tCQ==?uid=0&filename=Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29%204K%20%20SDR%20DUAL%20id_823464.mkv&disposition=attachment&hash=WAgsy7dkQLQd1/33d6S/bqWId869TFpPk1dG4u1%2BS3rcjkCXj2Ik/lrIjq%2B6xQavq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=1875764040&fsize=14528134553&hid=63763effbab2a799e558c5275dd9c72f&media_type=video&tknv=v2&ts=6185dacc6d180&s=7e7661d8bc79d40240511a0a3c9df49738324d000bd23f8632c7c164e83b7ccb&pb=U2FsdGVkX18TYNgPjpyn3cuyjpXTzEl6ubF1hDA6u1t1DWY0FuLC3diYle-PBAXuO68W_f8CvcSyke5WYVIuot7DN47nnLV8aYJ2zry_ROE
-
-#EXTINF:-0 tvg-chno="18" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E2
-http://192.168.5.171:4445/Testamento+La+historia+de+Mois%C3%A9s+S01E03.mkv.mkv
-
-#EXTINF:-0 tvg-chno="19" tvg-logo="https://www.infobae.com/new-resizer/2wOztAxSDX_CM-w6vjpR5LMxwjY=/992x1323/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5ZEP666Z5BHAFGTWW7OSPXOMI4.png",De Viaje con los Derbez - T4 • E3
-http://192.168.5.171:4445/Los+Diez+Mandamientos+(1956).mkv
 
 #EXTINF:-0 tvg-chno="20" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E1)
 https://s03vlx.storage.yandex.net/rdisk/f0fa4495b2c69c99749c0313900ecda10f6510740f11a92ebddc57d0447b41aa/66445126/9E8LvVRYrvJ9Ypy7DCbq8ih_pulKnVptsr0gA_4Eg5NxSsQVeucz9eV_nTv1_ScHlcPPbjF2jUxfwiD8qvBcXA==?uid=0&filename=El%20Hombre%20De%20Los%20Sue%C3%B1os%20%282023%29%201080p%20DUAL%20id_823482.mkv&disposition=attachment&hash=4TjDfpkRNpsw%2BY5ETBAj5cPB5AZO9ZjAIFGwS841nwd8KnNz%2BAzI8KNDlE0%2BTqV5q/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=1957824953&fsize=7738032732&hid=b1d45743bbfc7375ccf2f03a4be75b1f&media_type=video&tknv=v2&ts=61877ef3a1580&s=6884ed0aa4469661cf727b5767379529202927d9de0ef45666a82f3078e3f91b&pb=U2FsdGVkX19Cq00QVRuMlVvt8gq-j7f8xqzWm5VeKh3H7Zh3Pf0b6tVVKlXJ3d9QDqIrhYTMevKoOpvpoUB-HlE8YDwcsrH5DeDBOqx9R8M
