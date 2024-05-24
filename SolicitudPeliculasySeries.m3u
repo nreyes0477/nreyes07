@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e7/Telma_La_Unicornio_p%C3%B3ster.jpg/revision/latest?cb=20240416204444&path-prefix=es",🍿Telma, La Unicornio (2024)🍿
+http://home-playtv.com:8080/movie/SiaFlores21/BSMRA/543484.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/The_Garfield_Movie_2024_poster.jpg",🍿Garfield: Fuera de Casa (2024) (Calidad HDTS-HDCAM)🍿
 https://vd441.mycdn.me/expires/1716591106237/srcIp/45.65.189.5/srcAg/CHROME_ANDROID/ms/45.136.21.34/type/5/sig/jW-XlH86xuI/ct/8/urls/45.136.20.11/clientType/1/id/6603587062486/video/
 
