@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argelly: Agente Secreto (+13) (2024)
+http://legiontv.online:80/movie/Victor1234/Victor1234/1067389.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",Rescate Imposible (R) (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1073268.mkv
 
