@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",Rescate Imposible (R) (2024)
+http://legiontv.online:80/movie/Victor1234/Victor1234/1073268.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",South Park: El Fin de la Obesidad (R) (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1077737.mkv
@@ -89,7 +91,7 @@ http://xpz.com.mx:8080/movie/Koko8164/8164koko/45274.mkv
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/51861.mkv
 
 #EXTINF:-0 tvg-chno="15" tvg-logo="https://plcw.tmsimg.com/assets/p25399831_v_v12_aa.jpg",Kung Fu Panda 4 (2024)
-http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/236707.mkv
+http://legiontv.online:80/movie/Victor1234/Victor1234/1073202.mkv
 
 #EXTINF:-0 tvg-chno="16" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
