@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg.jpg",La Primera Profesía (R) (2024)
+http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/242237.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argelly: Agente Secreto (+13) (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1067389.mkv
 
