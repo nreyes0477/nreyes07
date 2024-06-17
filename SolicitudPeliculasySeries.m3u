@@ -162,35 +162,71 @@ http://legiontv.online:80/movie/Victor1234/Victor1234/1073202.mkv
 #EXTINF:-0 tvg-chno="16" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
 
-#EXTINF:-0 tvg-chno="20" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E1)
+#EXTINF:-0 tvg-chno="88" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E1)
+http://legiontv.online:80/series/Victor1234/Victor1234/985490.mkv
+
+#EXTINF:-0 tvg-chno="89" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E2)
+http://legiontv.online:80/series/Victor1234/Victor1234/985480.mkv
+
+#EXTINF:-0 tvg-chno="90" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E3)
+http://legiontv.online:80/series/Victor1234/Victor1234/985461.mkv
+
+#EXTINF:-0 tvg-chno="91" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E4)
+http://legiontv.online:80/series/Victor1234/Victor1234/985465.mkv
+
+#EXTINF:-0 tvg-chno="92" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E5)
+http://legiontv.online:80/series/Victor1234/Victor1234/985469.mkv
+
+#EXTINF:-0 tvg-chno="93" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E6)
+http://legiontv.online:80/series/Victor1234/Victor1234/985484.mkv
+
+#EXTINF:-0 tvg-chno="94" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E7)
+http://legiontv.online:80/series/Victor1234/Victor1234/985502.mkv
+
+#EXTINF:-0 tvg-chno="95" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E8)
+http://legiontv.online:80/series/Victor1234/Victor1234/985500.mkv
+
+#EXTINF:-0 tvg-chno="96" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E9)
+http://legiontv.online:80/series/Victor1234/Victor1234/985486.mkv
+
+#EXTINF:-0 tvg-chno="97" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E10)
+http://legiontv.online:80/series/Victor1234/Victor1234/985496.mkv
+
+#EXTINF:-0 tvg-chno="98" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E11)
+http://legiontv.online:80/series/Victor1234/Victor1234/985498.mkv
+
+#EXTINF:-0 tvg-chno="99" tvg-logo="https://image.tmdb.org/t/p/original/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",Ted Lasso (T2-E12)
+http://legiontv.online:80/series/Victor1234/Victor1234/985473.mkv
+
+#EXTINF:-0 tvg-chno="101" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E1)
 http://legiontv.online:80/series/Victor1234/Victor1234/985471.mkv
 
-#EXTINF:-0 tvg-chno="21" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E2)
+#EXTINF:-0 tvg-chno="102" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E2)
 http://legiontv.online:80/series/Victor1234/Victor1234/985464.mkv
 
-#EXTINF:-0 tvg-chno="22" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E3)
+#EXTINF:-0 tvg-chno="103" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E3)
 http://legiontv.online:80/series/Victor1234/Victor1234/985460.mkv
 
-#EXTINF:-0 tvg-chno="23" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E4)
+#EXTINF:-0 tvg-chno="104" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E4)
 http://legiontv.online:80/series/Victor1234/Victor1234/985458.mkv
 
-#EXTINF:-0 tvg-chno="24" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E5)
+#EXTINF:-0 tvg-chno="105" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E5)
 http://legiontv.online:80/series/Victor1234/Victor1234/985472.mkv
 
-#EXTINF:-0 tvg-chno="25" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E6)
+#EXTINF:-0 tvg-chno="106" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E6)
 http://legiontv.online:80/series/Victor1234/Victor1234/985482.mkv
 
-#EXTINF:-0 tvg-chno="26" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E7)
+#EXTINF:-0 tvg-chno="107" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E7)
 http://legiontv.online:80/series/Victor1234/Victor1234/985457.mkv
 
-#EXTINF:-0 tvg-chno="27" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E8)
+#EXTINF:-0 tvg-chno="108" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E8)
 http://legiontv.online:80/series/Victor1234/Victor1234/985488.mkv
 
-#EXTINF:-0 tvg-chno="28" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E9)
+#EXTINF:-0 tvg-chno="109" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E9)
 http://legiontv.online:80/series/Victor1234/Victor1234/985468.mkv
 
-#EXTINF:-0 tvg-chno="29" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E10)
+#EXTINF:-0 tvg-chno="110" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg",Ted Lasso (T1-E10)
 http://legiontv.online:80/series/Victor1234/Victor1234/985475.mkv
 
-#EXTINF:-0 tvg-chno="30" tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?w=1060",🍿Película del Momento🍿
+#EXTINF:-0 tvg-chno="150" tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?w=1060",🍿Película del Momento🍿
 https://s454vlx.storage.yandex.net/rdisk/8d16d01a98d798e5f93a2890ed197e788d51fb07be7a7110c9c65945575dfd81/666632f5/svTWE9xOfeLcbX9EsfbO17Cuuqy7kDQ7MPgpNWPFpdzBnp4qCicipeJBE0keRK-uCvUGKpkRg88XmmZnaETqSw==?uid=0&filename=Parque%20Jurasico%2060FPS%20DUAL%20id_329.mkv&disposition=attachment&hash=xxgEBMJdnveuPLmGG9Md%2BvEzZkcbF2jUGQnn4XmJewsRb1XU5fk/nDda52tyoLwBq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=video%2Fx-matroska&owner_uid=1777130281&fsize=8338350736&hid=20252879fb87de2243a3c32e272b9e18&media_type=video&tknv=v2&ts=61a7cef0ae740&s=9282b97586ffa72d036e1193e5a032624d9d14033f0a0b03eaf29556aff4ea2d&pb=U2FsdGVkX18-J5iGZoUXKaux-ZA-tnbhpA5lm8mzSRjZGg5rRoNNwa2xeUIfCcCTKCXYLnSshacDdrgflHEK3Z4pG_AvPr7bWqnNf9AOGq0
