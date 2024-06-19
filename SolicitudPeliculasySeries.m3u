@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kRxl6cT2YBLap0NyEdR2zqYfps9.jpg",Bad Boys: Hasta la Muerte (R) (2024) (Calidad HDTS-HDCAM) ºk 
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e7c9fafeb7540d2490723a1f8291bb4694de2758&st.mq=2&st.mvid=7694842858198&st.ip=45.65.189.5&st.dla=on&st.exp=1718667287938&st.hls=on&_prevCmd=movieLayer&tkn=2920
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kRxl6cT2YBLap0NyEdR2zqYfps9.jpg",Bad Boys: Hasta la Muerte (R) (2024) (Calidad HDTS-HDCAM)
+http://sdmx.vip:8080/movie/marlon123/marlon123/2219092.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/oxxqiyWrnM0XPnBtVe9TgYWnPxT.jpg",Intensa-mente 2 (TP) (2024) (Calidad HDTS)
 http://sdmx.vip:8080/movie/marlon123/marlon123/2219406.mp4
@@ -144,22 +144,22 @@ http://nxt.plus:8080/movie/olmos/1234guz/218268.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",Snoopy presenta: Bienvenido a la Pandilla Franklin (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1065063.mp4
 
-#EXTINF:-0 tvg-chno="11" tvg-logo="https://peliculasbluray.com/wp-content/uploads/2024/02/POSTER-4-2-185x278.jpg",El Aprendiz de Tigre (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://peliculasbluray.com/wp-content/uploads/2024/02/POSTER-4-2-185x278.jpg",El Aprendiz de Tigre (2024)
 http://ultrapremium.cloud:8080/movie/942330689tv/0as03m/75607.mkv
 
-#EXTINF:-0 tvg-chno="12" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/rUPJfjfNEbANXQrmCQfurOppqrA.jpg",Mi Amigo Robot (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/rUPJfjfNEbANXQrmCQfurOppqrA.jpg",Mi Amigo Robot (2024)
 http://home-playtv.com:8080/movie/SiaFlores21/BSMRA/535892.mkv
 
-#EXTINF:-0 tvg-chno="13" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",Clueless (1995)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://m.media-amazon.com/images/I/91+6LJTjUYL._AC_UF1000,1000_QL80_FMwebp_.jpg",Clueless (1995)
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/45274.mkv
 
-#EXTINF:-0 tvg-chno="14" tvg-logo="https://m.media-amazon.com/images/I/71raQC2wWZL._AC_UF894,1000_QL80_FMwebp_.jpg",Godzilla (2014)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://m.media-amazon.com/images/I/71raQC2wWZL._AC_UF894,1000_QL80_FMwebp_.jpg",Godzilla (2014)
 http://xpz.com.mx:8080/movie/Koko8164/8164koko/51861.mkv
 
-#EXTINF:-0 tvg-chno="15" tvg-logo="https://plcw.tmsimg.com/assets/p25399831_v_v12_aa.jpg",Kung Fu Panda 4 (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://plcw.tmsimg.com/assets/p25399831_v_v12_aa.jpg",Kung Fu Panda 4 (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1073202.mkv
 
-#EXTINF:-0 tvg-chno="16" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
 
 #EXTINF:-0 tvg-chno="78" tvg-logo="https://image.tmdb.org/t/p/original/frCG9O89wRh1BZ5x6Ihht5R811v.jpg",From (T1-E1) (+17)
