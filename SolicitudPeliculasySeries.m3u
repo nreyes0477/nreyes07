@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/9Lv02I62I6EdDM8tMycoyDJxFn6.jpg",Los Vigilantes (+13) (2024)
+http://offshore.lat:25461/movie/LUISAFR6/9144390132/408411.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cJfJUE7wDbYiK623yvEc6iYdny1.jpg",Hacia Rutas Salvajes (R) (2007)
 http://tv.proyectox.vip:8080/movie/tonymancilla/HQtwtDTB1n/261124.mkv
 
