@@ -13,7 +13,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=5dAe2f
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD ²
-http://201.159.113.219:49000/play/a05b/index.m3u8
+http://45.186.106.207:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://www.municipalgrecia.com/images/2020/08/25/futv.png",Futv HD (Opc 2) ²
 http://200.52.150.5:8000/play/a0t3/index.m3u8
