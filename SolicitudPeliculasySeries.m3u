@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/eUPtqU7W72TaZsEuYqXaBd2VGhE.jpg",Tornados (+13) (2024) (Calidad HDCam) 🆗 
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a18c780d4e0c38139564b385d66d8078947fe617&st.mq=2&st.mvid=7828206389974&st.ip=45.65.189.2&st.dla=on&st.exp=1722650061207&st.hls=on&_prevCmd=movieLayer&tkn=3350
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/45hVacMx3m0nzRwKiCG66en2A1r.jpg",Un Lugar en Silencio: Dia 1 (+13) (2024)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/598460.mp4
 
