@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7IlEeCBoD2Ysis1Beiz2N0FU14y.jpg",Deadpool y Lobezno (R) (2024)
+http://xtream.lat:8880/movie/Alex2023/Alex2023/336403.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/eUPtqU7W72TaZsEuYqXaBd2VGhE.jpg",Tornados (+13) (2024) (Calidad HDCam) 🆗 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a18c780d4e0c38139564b385d66d8078947fe617&st.mq=2&st.mvid=7828206389974&st.ip=45.65.189.2&st.dla=on&st.exp=1722650061207&st.hls=on&_prevCmd=movieLayer&tkn=3350
 
