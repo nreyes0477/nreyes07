@@ -205,6 +205,30 @@ http://legiontv.online:80/movie/Victor1234/Victor1234/1073202.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
 
+#EXTINF:-0 tvg-chno="59" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E1) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317779.mp4
+
+#EXTINF:-0 tvg-chno="60" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E2) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317780.mp4
+
+#EXTINF:-0 tvg-chno="61" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E3) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317781.mp4
+
+#EXTINF:-0 tvg-chno="62" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E4) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317782.mp4
+
+#EXTINF:-0 tvg-chno="63" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E5) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317783.mp4
+
+#EXTINF:-0 tvg-chno="64" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E6) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317784.mp4
+
+#EXTINF:-0 tvg-chno="65" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E7) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317785.mp4
+
+#EXTINF:-0 tvg-chno="66" tvg-logo="https://image.tmdb.org/t/p/original/5wdUcarmuEomnH1wkca65pPuTXV.jpg",Stranger Things (T1-E8) 
+http://xtream.lat:8880/series/Alex2023/Alex2023/317786.mp4
+
 #EXTINF:-0 tvg-chno="68" tvg-logo="https://image.tmdb.org/t/p/original/jfw5WoRnPGJQrDdaSOB5QqpjytC.jpg",From (T2-E1) (+17)
 http://daleplay.club:80/series/andres90@/@andres90/357734.mp4
 
