@@ -176,3 +176,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w363472295.m3u8
 
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="627" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png",ESPN Premium Sur ²
+http://190.61.44.34:1010/play/a05u/index.m3u8
