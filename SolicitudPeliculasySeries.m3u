@@ -205,6 +205,28 @@ http://legiontv.online:80/movie/Victor1234/Victor1234/1073202.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg",Madame Web (PG-13) (2024)
 http://offshore.lat:8080/movie/LUISAFR6/9144390132/386741.mp4
 
+#EXTINF:-0 tvg-chno="50" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E3) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139383.mkv
+
+#EXTINF:-0 tvg-chno="51" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E4) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139383.mkv
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139384.mkv
+
+#EXTINF:-0 tvg-chno="52" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E5) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139385.mkv
+
+#EXTINF:-0 tvg-chno="53" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E6) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139386.mkv
+
+#EXTINF:-0 tvg-chno="54" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E7) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/139387.mkv
+
+#EXTINF:-0 tvg-chno="55" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E8) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/141389.mkv
+
+#EXTINF:-0 tvg-chno="56" tvg-logo="https://image.tmdb.org/t/p/original/wHhjZMlYGT9yUEyGpP9jmR6Jq3I.jpg",Stranger Things (T4-E9) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/141390.mkv
+
 #EXTINF:-0 tvg-chno="59" tvg-logo="https://image.tmdb.org/t/p/original/6lGapZA18mVfTE5M7QDKkVmVYEB.jpg",Stranger Things (T3-E1) 
 http://live.budtvlight.com:25461/series/bud-4583224/324a549067/243504.mp4
 
