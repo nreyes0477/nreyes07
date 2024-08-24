@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg",Contra Todos (R) (2024)
+http://galaxypro.online:8080/movie/DiegoIntriago/Juanito/568580.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",Los Asesinos de la Luna (R) (2023)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/179587.mkv
