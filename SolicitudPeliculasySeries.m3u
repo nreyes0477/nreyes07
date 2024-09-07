@@ -9,7 +9,7 @@ http://legiontv.online/movie/Victor1234/Victor1234/1047540.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aUCcNArHgQ5fFak9zjPRQjBrpkr.jpg",Arcadian (R) (SUB) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/203771.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg",Contra Todos (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg" group-title="Películas",Contra Todos (R) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/212011.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",Los Asesinos de la Luna (R) (2023)
