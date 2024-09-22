@@ -12,7 +12,7 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/228323.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/78kGkvC09fhSNoBinDYS9f3Fezf.jpg" group-title="Películas",La Trampa (+13) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/229408.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wGu147iAH3gF1ddj6zZMagD53fX.jpg" group-title="Películas",Alien: Romulus (R) (HDTS) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wGu147iAH3gF1ddj6zZMagD53fX.jpg" group-title="Películas",Alien: Romulus (R) (Calidad HDTS) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/229723.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/nIWCrXAqxUuIDxMKAiTem5cKg67.jpg" group-title="Películas",Wolfwalkers: Espíritu de Lobo (TP) (2020)
@@ -585,5 +585,5 @@ http://legiontv.online:80/series/Victor1234/Victor1234/985468.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://www.orientaserie.it/wp-content/uploads/2022/09/a3tL7vRFN63zE8IrpjLHtheAcBM-1024x1536.jpg" group-title="Series",Ted Lasso (T1-E10)
 http://legiontv.online:80/series/Victor1234/Victor1234/985475.mkv
 
-#EXTINF:-0 tvg-chno="150" tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?w=1060" group-title="Películas",🍿Película del Momento🍿
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?w=1060" group-title="Películas",🍿Película del Momento🍿
 https://vd524.okcdn.ru/expires/1726529866597/srcIp/45.65.189.61/srcAg/CHROME_ANDROID/ms/185.226.55.34/type/5/sig/7b-tmsYDgRg/ct/8/urls/185.226.53.30/clientType/1/zs/43/id/6944622250540/video/
