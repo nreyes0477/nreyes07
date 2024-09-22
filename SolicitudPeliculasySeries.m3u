@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/xRmTmHcCIhU8b2CYi3vp8lcueud.jpg" group-title="Películas",Beetlejuice (+13) (Calidad HDTS) (2024) 🆗
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=26d545e5283f8e5074a5777a10091a4c55c408bb&st.mq=2&st.mvid=7997211937494&st.ip=45.65.189.61&st.dla=on&st.exp=1727157379139&st.hls=on&_prevCmd=movieLayer&tkn=3170
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/lv3MuNA14T3XMuFeESZT5UZ4Jp7.jpg" group-title="Películas",El Cuervo (R) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/232762.mkv
 
