@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fEUV3cVELqOnNKCgxfkJ5mo7kdD.jpg" group-title="Películas",La Sustancia (+18) (2024)
+http://megaxtv.com:80/movie/anderson123/anderson123/341783.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/qO3plV9j4eJdkxGsTe6rWesIoIn.jpg" group-title="Películas",Lobos (R) (2024)
 http://premierchile.shop:8080/movie/sremos649027/649027sremos/254181.mp4
 
