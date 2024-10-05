@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/3awoWMKDfTROjGB2vivky1TCSRd.jpg" group-title="Películas",El Hoyo 2 (+18) (2024)
+http://premierchile.shop:8080/movie/sremos649027/649027sremos/254597.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/gqYspQkBYCV6pVTOojpSr3ffpug.jpg" group-title="Películas",El Halloween de Hubie (+13) (2020)
 http://live.budtvlight.com:25461/movie/bud-4583224/324a549067/178273.mkv
 
