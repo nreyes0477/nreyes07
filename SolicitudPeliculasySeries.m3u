@@ -270,11 +270,14 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/199065.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg" group-title="Películas",Madame Web (PG-13) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194625.mkv
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E3) 
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/237678.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E2) 
-http://premierchile.shop:8080/series/sremos649027/649027sremos/254354.mp4
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/237677.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E1) 
-http://premierchile.shop:8080/series/sremos649027/649027sremos/253754.mp4
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/235503.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/ja0gqtnWaPYHEyCKOSVf5jwSdgq.jpg" group-title="Series",The Umbrella Academy (T4-E1) 
 http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/225704.mkv
