@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vEAL8FdR6kTGP0LQ2wX7iaANm6F.jpg" group-title="Películas",Los Juegos del hambre: En Llamas (+13) (2013)
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/211929.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/1izKpDQ3OfVuIDy62Rxx8rmN8U8.jpg" group-title="Películas",Joker: Un Mundo es un Escenario (R) (2024)
 http://legiontv.online/movie/Victor1234/Victor1234/1152762.mkv
 
