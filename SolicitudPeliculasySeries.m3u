@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/s0MMGZ0W19tCUKzx3auu93ne8rD.jpg" group-title="Películas",Beetlejuice (+13) (2024)
+http://fivetv.org:25461/movie/maria8947/beltran8950/287105.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9bdHnCvgRb3lkCIT0PryyZRDUWs.jpg" group-title="Películas",Mis Dos Vidas (+13) (2022)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/147488.mkv
 
