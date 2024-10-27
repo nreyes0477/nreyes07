@@ -288,8 +288,8 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/199065.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg" group-title="Películas",Madame Web (PG-13) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194625.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E5) 🔗
-https://ghevcoys9gepryw.hgagecdn.com/hls2/01/02429/9juz1y6vjpcd_n/master.m3u8?t=7zkPWkMuE_Pt4fPeZ16lkaa5LRqkY3q_uT1WTwwcLc8&s=1729535568&e=129600&f=12147200&srv=st46KlqWmALq&i=0.4&sp=500&p1=st46KlqWmALq&p2=st46KlqWmALq&asn=266853
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E5)
+http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/242978.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bpdE9StxqOT1lvZ8Sglzy6OYG5H.jpg" group-title="Series",From (T3-E4) 
 http://mstrtv.com:25461/series/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/239812.mkv
