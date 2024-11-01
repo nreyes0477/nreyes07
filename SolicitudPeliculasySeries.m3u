@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ymXvj08N37xtpQ3C2ilmeYtSqdn.jpg" group-title="Películas",Pieza por Pieza (TP) (2024)
+https://drive.google.com/uc?id=1cNEDA_c_74Ns7caACrFk8rnhJcjz4x8N
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/s0MMGZ0W19tCUKzx3auu93ne8rD.jpg" group-title="Películas",Beetlejuice (+13) (2024)
 http://fivetv.org:25461/movie/maria8947/beltran8950/287105.mkv
 
