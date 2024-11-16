@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.sopitas.com/wp-content/uploads/2024/06/jake-paul-mike-tyson-pelea-de-tamano-grande.jpeg" group-title="Películas",Evento: Jake Paul vs. Mike Tyson (Netflix)
-:http://dnslivetv.online:80/streaming/clients_live.php?username=Victor1234&password=Victor1234&stream=1174201&extension=ts
+http://dnslivetv.online:80/streaming/clients_live.php?username=Victor1234&password=Victor1234&stream=1174201&extension=ts
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.sopitas.com/wp-content/uploads/2024/06/jake-paul-mike-tyson-pelea-de-tamano-grande.jpeg" group-title="Películas",Evento: Jake Paul vs. Mike Tyson (Netflix)
 https://nxt.plus:8443/streaming/clients_live.php?username=cablestream&password=uSgBFYRL78sA&stream=219166&extension=ts
