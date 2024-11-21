@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="Películas",Código: Traje Rojo (+13) (2024)
+http://sdmx.vip:80/movie/marlon123/marlon123/2385636.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vNiI4kRU2k8ujgIErjrDcScHWN5.jpg" group-title="Películas",Guardiana de Dragones (TP) (2024)
 http://sdmx.vip:80/movie/marlon123/marlon123/2385637.mp4
 
