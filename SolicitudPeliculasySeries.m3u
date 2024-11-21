@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/3mjqen3o90Q0S9Rkfg79ZqqPHKl.jpg" group-title="Películas",Sonríe 2 (+18) (2024)
+http://sdmx.vip:80/movie/marlon123/marlon123/2386031.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/r4bIQrxPpELjar0C4CPopgowAdO.jpg" group-title="Películas",Gladiador 2 (R) (2024)
 http://sdmx.vip:80/movie/marlon123/marlon123/2386994.mp4
 
