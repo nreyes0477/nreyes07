@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/fLJU4br15Uy2XtFwKPjuMPRYiks.jpg" group-title="Películas",Moana 2 (TP) (2024)
+http://tv.nousiptv.com:8080/movie/095488530/Alvaro/1226670.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/43Hwi0wJAUvDKKT4hdRAI4OR5Ql.jpg" group-title="Películas",Como Perder a un Chico en 10 Días  (+13) (2003)
 http://live.budtvlight.com:25461/movie/bud-3150799/ps1N9wRnc5Q/175296.mkv
 
