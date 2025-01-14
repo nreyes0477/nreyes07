@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/a1KFPJtTmT5VlCvANsTQF7IA5y.jpg" group-title="Películas",Sonic: La Película (TP) (2020)
+http://sdmx.vip:80/movie/marlon123/marlon123/2139534.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="Películas",Sonic 2: La Película (TP) (2022)
+http://sdmx.vip:80/movie/marlon123/marlon123/2120435.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="Películas",Sonic 3: La Película (TP) (2024)
+http://sdmx.vip:80/movie/marlon123/marlon123/2393351.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/dkC7O3c16CL9glenKw8NAgoWvze.jpg" group-title="Películas",La Casa de Jack Built (🔞) (2018)
 http://liontv.es:80/movie/Jona2022/Jona2022/898041.mkv
 
