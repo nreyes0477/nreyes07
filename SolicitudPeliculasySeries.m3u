@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9sDQlUS4YdA9vdz4xl8sbXWYGOG.jpg" group-title="Películas", Noticias del Gran Mundo (+13) (2020)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cQ5cBYLKQ2neC5oncuNtwZudmd3.jpg" group-title="Películas",El Curandero (+16) (2023)
+http://tvlatino.club:2082/movie/YKb44BNfjaAg/Z6GRGPUMT3R4/407513.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9sDQlUS4YdA9vdz4xl8sbXWYGOG.jpg" group-title="Películas",Noticias del Gran Mundo (+13) (2020)
 http://tvlatino.club:2082/movie/YKb44BNfjaAg/Z6GRGPUMT3R4/246987.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/s0GycfByhcvyBT3xyBtRxy5B3QU.jpg" group-title="Películas",Diario de un Rebelde (R) (1995)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/s0GycfByhcvyBT3xyBtRxy5B3QU.jpg" group-title="Películas",Diario de un Rebelde (+17) (1995)
 http://zonamovie.live:8080/movie/margarita/margarita/865856.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/pqVcURpqbkoE0hhKbTUEpGBycIv.jpg" group-title="Películas",Los Hijos de la Calle (R) (1996)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/pqVcURpqbkoE0hhKbTUEpGBycIv.jpg" group-title="Películas",Los Hijos de la Calle (+17) (1996)
 http://live.budtvlight.com:25461/movie/bud-4583224/324a549067/175014.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/a1KFPJtTmT5VlCvANsTQF7IA5y.jpg" group-title="Películas",Sonic: La Película (TP) (2020)
@@ -39,7 +42,7 @@ http://sdmx.vip:80/movie/marlon123/marlon123/2144497.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/2BbwPr1lOzrS8vrZr62VdPZwWhv.jpg" group-title="Películas",A Todos los Chicos de los que me Enamoré (+13) (2018)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/585740.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/oK2C9IDKVMmp9itkPeR32CW6Ugv.jpg" group-title="Películas",Juego de Asesinos (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/oK2C9IDKVMmp9itkPeR32CW6Ugv.jpg" group-title="Películas",Juego de Asesinos (+17) (2024)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/681628.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/AbZJD3lLnOp3pnpFtOqgqUoOrLJ.jpg" group-title="Películas",Transformers One (TP) (2024)
@@ -48,7 +51,7 @@ http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/681208.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/3mjqen3o90Q0S9Rkfg79ZqqPHKl.jpg" group-title="Películas",Sonríe 2 (🔞) (2024)
 http://sdmx.vip:80/movie/marlon123/marlon123/2386031.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/r4bIQrxPpELjar0C4CPopgowAdO.jpg" group-title="Películas",Gladiador 2 (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/r4bIQrxPpELjar0C4CPopgowAdO.jpg" group-title="Películas",Gladiador 2 (+17) (2024)
 http://sdmx.vip:80/movie/marlon123/marlon123/2386994.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="Películas",Código: Traje Rojo (+13) (2024)
@@ -81,7 +84,7 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/64822.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vEAL8FdR6kTGP0LQ2wX7iaANm6F.jpg" group-title="Películas",Los Juegos del hambre: En Llamas (+13) (2013)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/615873.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/1izKpDQ3OfVuIDy62Rxx8rmN8U8.jpg" group-title="Películas",Joker: Un Mundo es un Escenario (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/1izKpDQ3OfVuIDy62Rxx8rmN8U8.jpg" group-title="Películas",Joker: Un Mundo es un Escenario (+17) (2024)
 http://legiontv.online/movie/Victor1234/Victor1234/1152762.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yTuvyPLNowzmdqTe9CqNZ3iY8p2.jpg" group-title="Películas",Robot Salvaje (TP) (2024)
@@ -93,7 +96,7 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61848.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fEUV3cVELqOnNKCgxfkJ5mo7kdD.jpg" group-title="Películas",La Sustancia (🔞) (2024)
 http://megaxtv.com:80/movie/anderson123/anderson123/341783.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/qO3plV9j4eJdkxGsTe6rWesIoIn.jpg" group-title="Películas",Lobos (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/qO3plV9j4eJdkxGsTe6rWesIoIn.jpg" group-title="Películas",Lobos (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60907.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/llRUOYj8RLVTzpEUfcKrcQEVpTx.jpg" group-title="Películas",Alicia en el País de las Pesadillas (+15) (2023)
@@ -111,28 +114,28 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60900.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/5TeXzr6Qu00UBGSO7dhIUPtmk8E.jpg" group-title="Películas",El Sindicato (+13) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61206.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vHpmI3Cp9w2dq8YmyBBQCYvDFLF.jpg" group-title="Películas",Con La Bestia Dentro (SUB) (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/vHpmI3Cp9w2dq8YmyBBQCYvDFLF.jpg" group-title="Películas",Con La Bestia Dentro (SUB) (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/227198.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/7WfWEy1EIJj4nLR6PdE6A09TcOv.jpg" group-title="Películas",Al rescate de Fondo de Bikini: La película de Arenita Mejillas (TP) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/337627.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/jb5uMacKk4m25BL3qXZ4NwdG0lg.jpg" group-title="Películas",No Hables con Extraños (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/jb5uMacKk4m25BL3qXZ4NwdG0lg.jpg" group-title="Películas",No Hables con Extraños (+17) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/420406.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/4oAHdC9fd0j4YgjuvjfxK5Q1PVw.jpg" group-title="Películas",Romper el Círculo (+13) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/419904.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/lv3MuNA14T3XMuFeESZT5UZ4Jp7.jpg" group-title="Películas",El Cuervo (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/lv3MuNA14T3XMuFeESZT5UZ4Jp7.jpg" group-title="Películas",El Cuervo (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/232762.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg" group-title="Películas",Longlegs: Coleccionista de Almas (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg" group-title="Películas",Longlegs: Coleccionista de Almas (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/63317.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/78kGkvC09fhSNoBinDYS9f3Fezf.jpg" group-title="Películas",La Trampa (+13) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61117.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wGu147iAH3gF1ddj6zZMagD53fX.jpg" group-title="Películas",Alien: Romulus (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wGu147iAH3gF1ddj6zZMagD53fX.jpg" group-title="Películas",Alien: Romulus (+17) (2024)
 http://tv.nousiptv.com:8080/movie/095488530/Alvaro/1220774.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/nIWCrXAqxUuIDxMKAiTem5cKg67.jpg" group-title="Películas",Wolfwalkers: Espíritu de Lobo (TP) (2020)
@@ -144,13 +147,13 @@ http://offshore.lat:25461/movie/LUISAFR6/9144390132/417489.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg" group-title="Películas",Bajo la Misma Estrella (+13) (2014)
 http://megaxtv.com:80/movie/anderson123/anderson123/333898.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aUCcNArHgQ5fFak9zjPRQjBrpkr.jpg" group-title="Películas",Arcadian (R) (SUB) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aUCcNArHgQ5fFak9zjPRQjBrpkr.jpg" group-title="Películas",Arcadian (+17) (SUB) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/203771.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg" group-title="Películas",Contra Todos (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg" group-title="Películas",Contra Todos (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60936.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg" group-title="Películas",Los Asesinos de la Luna (R) (2023)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg" group-title="Películas",Los Asesinos de la Luna (+17) (2023)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/65240.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" group-title="Películas",Perfect Days (+7) (SUB) (2023)
@@ -159,7 +162,7 @@ http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/612863.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f4852LpIxGZLIniTLUYf4T7txqu.jpg" group-title="Películas",Historia de un Matrimonio (+12) (2019)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/64487.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7IlEeCBoD2Ysis1Beiz2N0FU14y.jpg" group-title="Películas",Deadpool & Wolverine (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7IlEeCBoD2Ysis1Beiz2N0FU14y.jpg" group-title="Películas",Deadpool & Wolverine (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60909.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/eUPtqU7W72TaZsEuYqXaBd2VGhE.jpg" group-title="Películas",Tornados (+13) (2024)
@@ -183,64 +186,64 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60901.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/9Lv02I62I6EdDM8tMycoyDJxFn6.jpg" group-title="Películas",Los Vigilantes (+13) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/408411.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cJfJUE7wDbYiK623yvEc6iYdny1.jpg" group-title="Películas",Hacia Rutas Salvajes (R) (2007)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cJfJUE7wDbYiK623yvEc6iYdny1.jpg" group-title="Películas",Hacia Rutas Salvajes (+17) (2007)
 http://legiontv.online/movie/Victor1234/Victor1234/1141031.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/w780/vUuBKj6UKsOXrRyzxuyhcR5pid6.jpg" group-title="Películas",Hart: Duro de Entrenar 2 (+13) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/329503.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/x8Od47ZMDDT3ho3IRdXNmcjHknX.jpg" group-title="Películas",El Ministerio de la Guerra (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/x8Od47ZMDDT3ho3IRdXNmcjHknX.jpg" group-title="Películas",El Ministerio de la Guerra (+17) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/405168.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg" group-title="Películas",Los Extraños: Capítulo 1 (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cdFZoQDxLRRWXLB3kxCnc674dBF.jpg" group-title="Películas",Los Extraños: Capítulo 1 (+17) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/406864.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/pbL8mGRzH6tWJF61jTNfPyTHqGE.jpg" group-title="Películas",Furiosa: De la Saga de Mad Max (+15) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60899.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kRxl6cT2YBLap0NyEdR2zqYfps9.jpg" group-title="Películas",Bad Boys: Hasta la Muerte (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kRxl6cT2YBLap0NyEdR2zqYfps9.jpg" group-title="Películas",Bad Boys: Hasta la Muerte (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60898.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/oxxqiyWrnM0XPnBtVe9TgYWnPxT.jpg" group-title="Películas",Intensa Mente 2 (TP) (2024)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/574103.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a3/10259284_514751705291936_5072950707448486220_o.jpg/revision/latest?cb=20140725062903&path-prefix=es" group-title="Películas",Comando Especial 2 (R) (2014)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a3/10259284_514751705291936_5072950707448486220_o.jpg/revision/latest?cb=20140725062903&path-prefix=es" group-title="Películas",Comando Especial 2 (+17) (2014)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/68886.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0e/Comando-especial-21-jump-street.jpg/revision/latest?cb=20120325041007&path-prefix=es" group-title="Películas",Comando Especial (R) (2012)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0e/Comando-especial-21-jump-street.jpg/revision/latest?cb=20120325041007&path-prefix=es" group-title="Películas",Comando Especial (+17) (2012)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/68888.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wb8O7Vk3TlUQuVL0wuneNV8ZVmS.jpg" group-title="Películas",Yo, Robot (PG13) (2004)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/190579.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/29nqVPNFnB9ZxriApsIrFiteBa6.jpg" group-title="Películas",MR-9: Misión Mortal (R) (2023)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/29nqVPNFnB9ZxriApsIrFiteBa6.jpg" group-title="Películas",MR-9: Misión Mortal (+17) (2023)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/213942.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/4IwPhjSR3Jel5aAuvITAy8NmNH2.jpg" group-title="Películas",Winnie the Pooh: Miel y Sangre 2 (🔞) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60959.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3HFZcR05th5fhhL5LBzwm2kPmP4.jpg"group-title="Películas",I.S.S. (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3HFZcR05th5fhhL5LBzwm2kPmP4.jpg"group-title="Películas",I.S.S. (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61185.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/fHeUR3IYTSuMbZ0UoSj6zjUXemg.jpg" group-title="Películas",Ultraman: El Ascenso (TP) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61100.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg" group-title="Películas",Agente X: Última Misión (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg" group-title="Películas",Agente X: Última Misión (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/198252.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/1cC59k0caVOsC9HkeO9bSIwwHKb.jpg" group-title="Películas",El Planeta de los Simios: Nuevo Reino (+15) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60920.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/t4uBsF6zfbopJNX0Ddj25CXqtMO.jpg" group-title="Películas",El Hombre de los Sueños (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/t4uBsF6zfbopJNX0Ddj25CXqtMO.jpg" group-title="Películas",El Hombre de los Sueños (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/193792.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f1wTvfh5yUr2i8bZXvSK12JH50L.jpg" group-title="Películas",Implacable (R) (SUB) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f1wTvfh5yUr2i8bZXvSK12JH50L.jpg" group-title="Películas",Implacable (+17) (SUB) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/364252.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg" group-title="Películas",La Fuerza de la Naturaleza 2 (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg" group-title="Películas",La Fuerza de la Naturaleza 2 (+17) (2024)
 http://legiontv.online:80/movie/Victor1234/Victor1234/1077165.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/psrCLAflM1HkcTI9G3R26uodUp6.jpg" group-title="Películas",Revuelto (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/psrCLAflM1HkcTI9G3R26uodUp6.jpg" group-title="Películas",Revuelto (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/209615.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/rpnZlagXNjWh6GUMmGosC5MHrYy.jpg" group-title="Películas",Hachiko 2: Siempre a tu Lado (TP) (2024)
@@ -255,31 +258,31 @@ http://offshore.lat:25461/movie/LUISAFR6/9144390132/361451.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mGuNJpSbaKcpsfDf05VAcN9h9vb.jpg" group-title="Películas",Tarot (+15) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61166.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg" group-title="Películas",Colateral (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg" group-title="Películas",Colateral (+17) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/400057.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg.jpg" group-title="Películas",La Primera Profesía (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg.jpg" group-title="Películas",La Primera Profesía (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61128.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/tshllXJDIctUlD1kMPQdIh37L2V.jpg" group-title="Películas",Argelly: Agente Secreto (+13) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/311433.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="Películas",Rescate Imposible (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg" group-title="Películas",Rescate Imposible (+17) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/320803.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg" group-title="Películas",South Park: El Fin de la Obesidad (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg" group-title="Películas",South Park: El Fin de la Obesidad (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/209619.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="Películas",Monkey Man (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" group-title="Películas",Monkey Man (+17) (2024)
 http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61191.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iCOQUVVaPqRuR3JqF71akguf6Mj.jpg" group-title="Películas",Guerra Civil (+15) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/322334.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/lzDZlPxXU9rTrFhPqd7013Ggp6D.jpg" group-title="Películas",Recuerdos Mortales (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/lzDZlPxXU9rTrFhPqd7013Ggp6D.jpg" group-title="Películas",Recuerdos Mortales (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/209600.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/ultimo-late-night-poster-66505fd7b65e0.jpg" group-title="Películas",El Último Late Night (R) (2023)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/ultimo-late-night-poster-66505fd7b65e0.jpg" group-title="Películas",El Último Late Night (+17) (2023)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/342157.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg" group-title="Películas",Arthur: Una Amistad Sin Límites (TP) (2024)
@@ -297,7 +300,7 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/61204.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://cinemagaly.com/app-assets/movieimage/radical-692347754-large.jpg" group-title="Películas",Radical (TP) (2023)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/309782.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://diamondfilms.com/img/poster/65cf6d287d6b2bbc947f15497.jpg" group-title="Películas",Lazos de Vida (R) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://diamondfilms.com/img/poster/65cf6d287d6b2bbc947f15497.jpg" group-title="Películas",Lazos de Vida (+17) (2024)
 http://xtream.lat:8880/movie/Alex2023/Alex2023/316468.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://www.ecartelera.com/carteles/18200/18266/003_p.jpg" group-title="Películas",El Arca de Noé (TP) (2024)
