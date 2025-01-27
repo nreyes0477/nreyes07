@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/qmdb46lXSkHOaJJD2Wcfhs8uhbx.jpg" group-title="Películas",Wicked: Parte Uno (TP) (2024)
+http://nxt.plus:8080/movie/jesus01/jesus01/248914.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cQ5cBYLKQ2neC5oncuNtwZudmd3.jpg" group-title="Películas",El Curandero (+16) (2023)
 http://tvlatino.club:2082/movie/YKb44BNfjaAg/Z6GRGPUMT3R4/407513.mkv
 
