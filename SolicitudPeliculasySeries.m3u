@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/6xmYFgXhAx8pHQwXGy9FwV2V1mF.jpg" group-title="Películas",Anora (R+) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg" group-title="Películas",Emilia Pérez (TP) (2024)
+http://smarterstv99.dyndns.tv:25461/movie/Miguelmoreno/jg8AwXkZL2yE/490647.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/6xmYFgXhAx8pHQwXGy9FwV2V1mF.jpg" group-title="Películas",Anora (R) (2024)
 http://smarterstv99.dyndns.tv:25461/movie/Miguelmoreno/jg8AwXkZL2yE/491960.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/yOeCTFS2zeKMABFOLfF8NVZQDWa.jpg" group-title="Películas",Hombre Lobo (+17) (2025)
