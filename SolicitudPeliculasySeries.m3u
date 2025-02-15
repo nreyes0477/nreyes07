@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7TlqsAXmuMec1GVcviQqA3iL0j0.jpg" group-title="Películas",Touch (+17) (2025)
+http://sdmx.vip:80/movie/Nadia/Nadia/2534739.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/oXDs2Xju86SjAkIJKJdilsJQ775.jpg" group-title="Películas",El 47 (TP) (2024)
 http://tvlatino.club:2082/movie/YKb44BNfjaAg/Z6GRGPUMT3R4/523420.mkv
 
