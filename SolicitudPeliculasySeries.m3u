@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/sJ7bgsuC06tpC7wVl3LUW5cyKmX.jpg" group-title="Películas",Memorias de un Caracol (SUB) (TP) (2024)
+http://latino777.xyz:8080/movie/Alex1592/Alex882d1/562671.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/rRRZHILJVScFCoIJPYZtOmEBXKi.jpg" group-title="Películas",El Brutalista (+18) (2024)
+http://latino777.xyz:8080/movie/Alex1592/Alex882d1/586122.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7TlqsAXmuMec1GVcviQqA3iL0j0.jpg" group-title="Películas",Touch (+17) (2025)
 http://sdmx.vip:80/movie/Nadia/Nadia/2412443.mkv
 
@@ -186,7 +192,7 @@ http://offshore.lat:25461/movie/LUISAFR6/9144390132/417489.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg" group-title="Películas",Bajo la Misma Estrella (+13) (2014)
 http://megaxtv.com:80/movie/anderson123/anderson123/333898.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aUCcNArHgQ5fFak9zjPRQjBrpkr.jpg" group-title="Películas",Arcadian (+17) (SUB) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aUCcNArHgQ5fFak9zjPRQjBrpkr.jpg" group-title="Películas",Arcadian (SUB) (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/203771.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg" group-title="Películas",Contra Todos (+17) (2024)
@@ -195,7 +201,7 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60936.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg" group-title="Películas",Los Asesinos de la Luna (+17) (2023)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/682645.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" group-title="Películas",Perfect Days (+7) (SUB) (2023)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" group-title="Películas",Perfect Days (SUB) (+7) (2023)
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/612863.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f4852LpIxGZLIniTLUYf4T7txqu.jpg" group-title="Películas",Historia de un Matrimonio (+12) (2019)
@@ -213,10 +219,10 @@ http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/598460.mp4
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/q4R6zruJtZBmGyp0ndrQlfhnuFl.jpg" group-title="Películas",Exhuma: La Tumba del Díablo (+15) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/226562.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/uAAHQFnqHrvrQT6rqwJ4uacPjg9.jpg" group-title="Películas",Lucky (+14) (SUB) (2017)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/uAAHQFnqHrvrQT6rqwJ4uacPjg9.jpg" group-title="Películas",Lucky (SUB) (+14) (2017)
 http://sdmx.vip:8080/movie/marlon123/marlon123/45893.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/sQ2GZDbFCfpfUCqwpDO10gTtU4k.jpg" group-title="Películas",Las Flores de la Guerra (+17) (SUB) (2011)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/sQ2GZDbFCfpfUCqwpDO10gTtU4k.jpg" group-title="Películas",Las Flores de la Guerra (SUB) (+17) (2011)
 http://2.magmas5.com:8000/movie/dardoarielsilva/YHjPqlPwHx/156973.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/pbCfLF4pys3mXfpXsFtp7tMLtLb.jpg" group-title="Películas",Gru Mi Villano Favorito 4 (TP) (2024)
@@ -252,7 +258,7 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/68886.m
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0e/Comando-especial-21-jump-street.jpg/revision/latest?cb=20120325041007&path-prefix=es" group-title="Películas",Comando Especial (+17) (2012)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/68888.mp4
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wb8O7Vk3TlUQuVL0wuneNV8ZVmS.jpg" group-title="Películas",Yo, Robot (PG13) (2004)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/wb8O7Vk3TlUQuVL0wuneNV8ZVmS.jpg" group-title="Películas",Yo, Robot (+13) (2004)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/190579.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/29nqVPNFnB9ZxriApsIrFiteBa6.jpg" group-title="Películas",MR-9: Misión Mortal (+17) (2023)
@@ -276,7 +282,7 @@ http://disfruta.net:80/movie/richardactiva247/gwqUJUjvgE/60920.mkv
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/t4uBsF6zfbopJNX0Ddj25CXqtMO.jpg" group-title="Películas",El Hombre de los Sueños (+17) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/193792.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f1wTvfh5yUr2i8bZXvSK12JH50L.jpg" group-title="Películas",Implacable (+17) (SUB) (2024)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/f1wTvfh5yUr2i8bZXvSK12JH50L.jpg" group-title="Películas",Implacable (SUB) (+17) (2024)
 http://offshore.lat:25461/movie/LUISAFR6/9144390132/364252.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg" group-title="Películas",La Fuerza de la Naturaleza 2 (+17) (2024)
@@ -351,7 +357,7 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/207497.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" group-title="Películas",Godzilla Minus One (2023)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/237071.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://images.librotea.com/uploads/media/2023/10/26/los-juegos-del-hambre-balada-de-pajaros-cantores-y-serpientes.jpeg" group-title="Películas",Los Juegos del Hambre: La Balada de los Pájaros Cantores y las Serpientes (2023)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://images.librotea.com/uploads/media/2023/10/26/los-juegos-del-hambre-balada-de-pajaros-cantores-y-serpientes.jpeg" group-title="Películas",Los Juegos del Hambre: La Balada de los Pájaros Cantores y las Serpientes (+17) (2023)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/211921.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Imaginary_2024_film_poster.jpeg" group-title="Películas",Imaginario (PG-13) (2024)
