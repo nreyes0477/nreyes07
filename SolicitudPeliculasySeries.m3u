@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/qoItrYyO2XIvaaGgCQuEf2uwXQa.jpg" group-title="Películas",Irehén (+12) (2025)
+http://nxt.plus:8080/movie/olmos/1234guz/255787.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/NZEdm7tzqTwj53yE5TySt8x89H.jpg" group-title="Películas",Capitán América: Un Nuevo Mundo (+13) (2025)
 http://1play.cool:25461/movie/2132580232/27be478b47/275261.mkv
 
