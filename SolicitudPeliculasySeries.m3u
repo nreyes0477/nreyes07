@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/b6AFAplNTGpPH5VCgkDwuWQhXQ9.jpg" group-title="Películas",No te mueras: El hombre que quiere vivir para siempre (+13) (2025)
+http://1play.cool:25461/movie/2132580232/27be478b47/262167.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/u670WhmTmxTnx7YuLYFmyPW0HNY.jpg" group-title="Películas",The Amateur (+13) (2025)
 http://1play.cool:25461/movie/2132580232/27be478b47/281274.mkv
 
