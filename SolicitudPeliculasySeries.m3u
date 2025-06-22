@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/3AHARwMGtvZHbXP4IAHjohFRRud.jpg" group-title="Películas",Bridget Jones: Loca por Él (+12) (2025)
+http://1play.cool:25461/movie/2132580232/27be478b47/270287.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/9EhRCPYmmTcWVMIwHL1UpKgb0O5.jpg" group-title="Películas",Caos: Los Crímenes de Manson (+17) (2025)
+http://1play.cool:25461/movie/2132580232/27be478b47/270538.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg" group-title="Películas",Contraataque (+15) (2025)
 http://1play.cool:25461/movie/2132580232/27be478b47/268524.mkv
 
