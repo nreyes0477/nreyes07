@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/q8OmYwDU7QDL1Wp2n9XKBKrVigW.jpg" group-title="Películas",Revelación (+15) (2025)
+http://1play.cool:25461/movie/2132580232/27be478b47/272209.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/7AT04zthIY39z5aWJY469qThqAP.jpg" group-title="Películas",Las Desapariciones (+14) (2024)
 http://1play.cool:25461/movie/2132580232/27be478b47/270703.mkv
 
