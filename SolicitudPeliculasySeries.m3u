@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/8G1dqBOX4Xe0xnQHoND14lsYNF2.jpg" group-title="Películas",Comó Entrenar a tú Dragón (TP) (2025)
+http://1play.cool:25461/movie/2132580232/27be478b47/281951.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iHibyzEq2jhCT8f5RljUNanhLF1.jpg" group-title="Películas",Destino Final:Lazos de Sangre (+17) (2025)
 http://1play.cool:25461/movie/2132580232/27be478b47/281944.mkv
 
