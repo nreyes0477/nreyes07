@@ -528,6 +528,24 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/199065.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg" group-title="Películas",Madame Web (PG-13) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194625.mkv
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E1) 
+http://1play.cool:25461/series/2132580232/27be478b47/282385.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E2) 
+http://1play.cool:25461/series/2132580232/27be478b47/282386.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E3) 
+http://1play.cool:25461/series/2132580232/27be478b47/282387.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E4) 
+http://1play.cool:25461/series/2132580232/27be478b47/282388.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E5) 
+http://1play.cool:25461/series/2132580232/27be478b47/282389.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://www.elheraldo.hn/binrepository/1200x1771/0c0/0d0/none/45933/QJWH/8_10964542_20250604173544.jpg" group-title="Series",El Juego del Calamar (T3-E6) 
+http://1play.cool:25461/series/2132580232/27be478b47/282390.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/jYRMHFivq1akod3TgqnsNhbVVxb.jpg" group-title="Series",El Eternauta (T1-E1) 
 http://tvpremium.pro:80/series/Erick12345/Erick12345/1510681.mkv
 
