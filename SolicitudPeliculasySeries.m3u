@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg" group-title="Películas",Dora en busca del Sol Dorado (TP) (2025)
+http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/82160.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/eXQNVeTEEWkGmTbxVNyOsvgpQq.jpg" group-title="Películas",Karate Kid: Leyendas (+13) (2025)
 http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/82162.mkv
 
