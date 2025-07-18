@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/62yBD3vORHcR1WROcoRRRFOLduF.jpg" group-title="Películas",M3GAN 2.0 (+13) (2025)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/i0ofXgWW5OSBJaIrg0MISVaGZS.jpg" group-title="Películas",Superman (+13) (2025)
+http://planettvweb.com:8091/movie/ArielMndo/ARIMDO815433/137437.mkv
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/62yBD3vORHcR1WROcoRRRFOLduF.jpg" group-title="Películas",M3gan 2.0 (+13) (2025)
 http://planettvweb.com:8091/movie/ArielMndo/ARIMDO815433/137432.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg" group-title="Películas",Bailarina (+17) (2025)
