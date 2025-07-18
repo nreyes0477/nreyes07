@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/62yBD3vORHcR1WROcoRRRFOLduF.jpg" group-title="Películas",M3GAN 2.0 (+13) (2025)
+http://planettvweb.com:8091/movie/ArielMndo/ARIMDO815433/137432.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg" group-title="Películas",Bailarina (+17) (2025)
 http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/82150.mp4
 
@@ -7,7 +10,7 @@ http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/82150.mp4
 http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/81432.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg" group-title="Películas",Jurassic World: El Renacer (+13) (2025)
-http://sdmx.vip:80/movie/drpengue71/wEFBdZWbHt/2555806.mp4
+http://planettvweb.com:8091/movie/ArielMndo/ARIMDO815433/137390.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg" group-title="Películas",Dora en busca del Sol Dorado (TP) (2025)
 http://tvpremiund.ddns.me:2082/movie/claudiobacigalupo/pndRM4bnptZZ/82160.mp4
