@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" group-title="Películas",Los Cuatro Fantásticos: Primeros pasos (+13) (2025)
+http://sdmx.vip:80/movie/drpengue71/wEFBdZWbHt/2557068.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/2BBWnA40jiP2arBg5MK3qTgpiYV.jpg" group-title="Películas",Duelo de Titanes (TP) (2000)
 https://vodu.maxmax.live/m/p0/24045.mp4
 
