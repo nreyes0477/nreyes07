@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/n7kmVwABox6thqIshRFXCuymZK0.jpg" group-title="Películas",Juego de Honor (+13) (2005)
+http://1play.cool:25461/movie/2132580232/27be478b47/186853.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="Películas",Happy Gilmore 2 (+13) (2025)
 http://sdmx.vip:80/movie/drpengue71/wEFBdZWbHt/2557183.mp4
 
