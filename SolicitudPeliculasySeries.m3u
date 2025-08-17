@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mkju1739WExqE4sgC4MC8EIBgKQ.jpg" group-title="Películas",La Hora de la Desaparición (TSC HD) (+17) (2005)
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/A1DSh29atQjLZCVCddMyGw1mbM8.jpg" group-title="Películas",Kayara: La Princesa Inca (TP) (2025)
+http://sdmx.vip:80/movie/drpengue71/wEFBdZWbHt/2556584.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mkju1739WExqE4sgC4MC8EIBgKQ.jpg" group-title="Películas",La Hora de la Desaparición (TSC HD) (+17) (2025)
 http://tvpremium.pro:80/movie/Erick12345/Erick12345/1529539.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/n7kmVwABox6thqIshRFXCuymZK0.jpg" group-title="Películas",Juego de Honor (+13) (2005)
