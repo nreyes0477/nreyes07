@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/9do2ry7eaeKH1fzdXCtOWsgXLwk.jpg" group-title="Películas",La Lista de Schindler (+17) (1993)
+http://1play.cool:25461/movie/2132580232/27be478b47/186961.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg" group-title="Películas",Guardianes de la noche: La fortaleza infinita (TSC/CAM HD) (SUB) (+12) (2025)
 http://tvpremium.pro:80/movie/Erick12345/Erick12345/1525901.mp4
 
