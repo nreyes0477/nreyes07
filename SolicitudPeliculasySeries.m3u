@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://quelibroleo.com/images/libros/futbolin-el-libro-de-la-pelicula_9788408116844.jpg" group-title="Películas",Metegol (TP) (2013)
+http://www.1play.cool:25461/movie/2132580232/27be478b47/192387.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/ewHxzJJuLILQuwa4cmo63gTAcsF.jpg" group-title="Películas",Tipos Malos 2 (TP) (2025)
 http://flx.lat:8080/movie/zno.0124/D6V8dFtjWSDW/317361.mp4
 
