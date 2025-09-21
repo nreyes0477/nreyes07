@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/mGcovsd7S72nzB2W2tUkK9EcjAf.jpg" group-title="Películas",Sé lo que hicieron el último verano (+17) (2025)
+http://sdmx.vip:80/movie/AngelicaAntonietaTellez/A4Pnrrfhw4FJ/2561429.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/693IF2kEkg1UMqlZ3nijsmvyslB.jpg" group-title="Películas",Nadie 2 (+17) (2025)
 http://flx.lat:8080/movie/zno.0124/D6V8dFtjWSDW/321894.mp4
 
