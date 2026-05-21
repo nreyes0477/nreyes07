@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/f8sKeSOkLY6QjcxqzRlbJbPYTo3.jpg" group-title="Películas",El Laberinto del Fauno (TP) (2006)
+http://domestipo1.online:80/movie/loreto57990017/colsieconi/503468.mkv
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/wA6vwsCLU65SDB6JOo3h0TsejmS.jpg" group-title="Películas",Frozen 2 (TP) (2009)
 http://domestipo1.online:80/movie/ser682mun/5w49evr21/504771.mp4
 
