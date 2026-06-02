@@ -684,8 +684,8 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/199065.
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/9t5gXmsNmOWikEsmu2W4gCgGFhP.jpg" group-title="Películas",Madame Web (PG-13) (2024)
 http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194625.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From SUB (T4-E6) ¹
-https://prx-1546-ant.vmwesa.online/hls2/01/02447/nwvehwhdzkdz_n/master.m3u8?t=IRfU9HaAsMwu0ppJ2QAU2yotbuK6tlr00oytZMhqa6E=&s=1780259808&e=43200&v=&srv=transit-up-1164-r&i=0.4&sp=0&asn=52228
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From (T4-E6)
+http://tv.zeuspro.xyz:8080/series/audri.2/9d4f113ed1d0/206716.mkv
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From SUB (T4-E5) ¹
 https://drive.usercontent.google.com/download?id=1lsUDTt_SweA9LU7Wd7Vxt9qAXMMjvRAL&confirm=t&uuid=39d06573-7f33-47fa-89dc-f3cb19933cb7
