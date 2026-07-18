@@ -1,6 +1,4 @@
-EXT
+#EXTM3U
 
-
-
-
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/bNDlyIGk1lSzPHTT0xwzcl91YwJ.jpg" group-title="Películas",El Diablo (2026)
 http://velive.lat:8080/movie/Nexp328737/29971731/445028.mp4
