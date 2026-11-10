@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/tYZ0SvlKOEj6BMHD8gfufRRd1sm.jpg" group-title="Películas",El Corazón de la Bestia (+13) (2026) ¹
+http://yuwc.swzablvpm.com/vod/767D4C99888444E5870185918DDF6C7F_media.ts
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/cD4ANfzNEyAtuImuk7NCV8Mf2sW.jpg" group-title="Películas",Torrente Presidente (+17) (2026) ¹
+http://yuwc.swzablvpm.com/vod/D8EFA486AFB242399455805B6C493A9D_media.ts
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/szMG36D2cIxeQ7i5zRQbq0DnNDe.jpg" group-title="Películas",Buddy (SUB) (+17) (2026)
 http://domtvs.dyndns.tv:8080/movie/teocontenido/zzwcXpSufJ/643464.mp4
 
@@ -9,8 +15,8 @@ http://yuwc.swzablvpm.com/vod/4FD65BE53DB84F0CA614010053F7C58A_media.ts
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg" group-title="Películas",La Odisea (+15) (2026)
 http://weibplus.is:80/movie/ArguedasJuan34/VCp8GFFeJ5/1192556.mkv
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/ogIobMbmXuL7k3qnba76hUms8lQ.jpg" group-title="Películas",La Misma Luna (+14) (2007)
-http://weibplus.is:80/movie/ArguedasJuan34/VCp8GFFeJ5/1305511.mkv
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/ogIobMbmXuL7k3qnba76hUms8lQ.jpg" group-title="Películas",La Misma Luna (+14) (2007) ¹
+http://yuwc.swzablvpm.com/vod/1BC00716B75D4AEA939F097F8021F591_media.ts
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/https://media.themoviedb.org/t/p/w440_and_h660_face/ghttVkRPPzhKebwTtJ5ApfuW0Qw.jpg.jpg" group-title="Películas",El Niño con el Pijama de Rayas (+12) (2008)
 http://ak-47scan.dyndns.tv:25461/movie/Alberto123/Alberto123/352386.mp4
