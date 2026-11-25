@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/vu2JdkMHWmM4I6I14N3q9CALtwm.jpg" group-title="Películas",Los Juegos del Hambre (+13) (2012)
+http://velive.lat:8080/movie/Nexp328737/29971731/498721.mp4
+
+#EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/fe80QhoNxp6FnVXdkvSMea73xyj.jpg" group-title="Películas",Los juegos del hambre: En Llamas (+13) (2013)
+http://velive.lat:8080/movie/Nexp328737/29971731/498722.mp4
+
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://image.tmdb.org/t/p/original/zi37vgWUmbZBFtCMHlLZWGTVAG9.jpg" group-title="Películas",El Expreso del Miedo (+15) (2013)
 http://cdn-abc.xyz:2086/movie/CanalesVen/NF8sq6nCEq/441355.mkv
 
