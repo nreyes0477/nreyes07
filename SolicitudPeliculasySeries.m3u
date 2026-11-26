@@ -725,22 +725,9 @@ http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/194625.
 
 
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/4/4b/Gabriela_2012.jpg/revision/latest?cb=20221105135814&path-prefix=es" group-title="Series",Gabriela (T1-E1)
-https://cdndirector.dailymotion.com/cdn/manifest/video/x32ym9x.m3u8?sec=65fs85Ip_r8NPohTpr9lDkGdOEaPHUT5e73L-uew2TPyShO_bMj-byu1Q-3PAZz4vmMF-I42dFaeLepWliKoaKkD8fKL116VfWKsJjV6apJV830_Lp9prCMh9Quiqh1K
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/4/4b/Gabriela_2012.jpg/revision/latest?cb=20221105135814&path-prefix=es" group-title="Series",Gabriela (T1-E2)
-https://cdndirector.dailymotion.com/cdn/manifest/video/x32zbs9.m3u8?sec=ZSttXr5g5IAY051J439y1CvIOPohzN5CtZ44muQjIaWBdVPxbk-JEHKsVHD7hmO6n3lazqqtoNgfdkdq6VuHBnAoZVV2Pm3MgPG834NVLL4WHIaDXWXxCkwTNG60ihrh
 
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/4/4b/Gabriela_2012.jpg/revision/latest?cb=20221105135814&path-prefix=es" group-title="Series",Gabriela (T1-E3)
-https://cdndirector.dailymotion.com/cdn/manifest/video/x33i4dk.m3u8?sec=29SDNFVWt8C-jFoFJ0QON6P75ruuw6zetswtL26Q1-KlgDvyLMi1tRQdHeN0A_E55t01313SddK1M03mIPloQVgeiChjzl4Z9Bxa1fI3ZMt_GN8bTde0p3Rheq4R0jrH
-
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/4/4b/Gabriela_2012.jpg/revision/latest?cb=20221105135814&path-prefix=es" group-title="Series",Gabriela (T1-E4)
-https://cdndirector.dailymotion.com/cdn/manifest/video/x33irm3.m3u8?sec=nztQb4oMTJWM3n7thHsdpjjljbNHDERD-4sA-YZSJy45c-_OA7UBYgL-XGlomeZMGChN2c_J7g7Yk3dGolYHtonLhZX1Lgwii4ueF7nUOyUi38uqCzcBreWJPaNOdgD5
-
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/4/4b/Gabriela_2012.jpg/revision/latest?cb=20221105135814&path-prefix=es" group-title="Series",Gabriela (T1-E5)
-https://cdndirector.dailymotion.com/cdn/manifest/video/x37a0ok.m3u8?sec=bHesjE2njCPI-OC0obvx-j1PZpXeYIae9R2D5Mue9lWTjrRFT52a0jNrku0M29_6rbILhkchqCgu0kEKv2Owj0zSsN9xV1DiiX_qgwsnaICdSEOqaBtSd2zqarDdip4Q
-
-#EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From (T4-E10)
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From (T4-E10)
 http://velive.lat:8080/series/Nexp328737/29971731/444808.mp4
 
 #EXTINF:-0 tvg-chno="1" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" group-title="Series",From (T4-E9) ¹
